@@ -3,6 +3,7 @@ Creative Applications of Deep Learning w/ Tensorflow.
 Kadenze, Inc.
 Copyright Parag K. Mital, June 2016.
 """
+from __future__ import print_function
 import tensorflow as tf
 import json
 import numpy as np
